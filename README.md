@@ -6,7 +6,6 @@
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: i hate debuggine
 
-<!---
-Hector-p/Hector-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Data Science Student with a strong foundation in Python and hands-on experience with popular frameworks including Numpy, Pandas, Seaborn, Matplotlib, Streamlit, and Flask. I'm passionate about extracting insights from data, building robust applications, and visualizing complex results. Currently, I'm seeking internship opportunities and looking to connect with fellow developers for collaboration on interesting projects. Let's connect!  
+Twitter: [@pyhector1](https://twitter.com/pyhector1)
+
