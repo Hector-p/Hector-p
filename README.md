@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hector-p
+- 👋 Hi, I’m Abdulganiu Onimisi
 - 👀 I’m interested in AI 
-- 🌱 I’m currently learning Data Science and ML
+- 🌱 I’m currently working on  Data Science and ML
 - 💞️ I’m looking to collaborate on any project available
 - 📫 How to reach me 
 - 😄 Pronouns: Mr
